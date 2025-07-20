@@ -1,0 +1,5 @@
+#ignore
+.idea/
+*.log
+*.clas
+out/
